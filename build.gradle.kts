@@ -1,4 +1,5 @@
 import org.jetbrains.compose.desktop.application.dsl.TargetFormat
+import org.jetbrains.kotlin.ir.backend.js.compile
 
 
 plugins {
@@ -33,7 +34,7 @@ kotlin {
                 implementation("org.jmdns:jmdns:3.5.1")
                 implementation("com.google.code.gson:gson:2.9.0")
 
-                implementation("com.github.weliem.blessed-bluez:blessed:0.61")
+                implementation("com.github.movisens:SmartGattLib:3.0")
 
                 implementation("io.ktor:ktor-server-core:2.3.1")
                 implementation("io.ktor:ktor-server-netty:2.3.1")

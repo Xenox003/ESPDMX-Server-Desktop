@@ -4,22 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b00554fb-0c77-45d7-91fe-69ccaae1f6c5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/jvmMain/kotlin/de/jxdev/espdmx/server/server/ServerThread.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jvmMain/kotlin/de/jxdev/espdmx/server/server/ServiceDiscovery.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jvmMain/kotlin/de/jxdev/espdmx/server/server/WebSocketServer.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jvmMain/kotlin/de/jxdev/espdmx/server/ui/components/CustomButton.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jvmMain/kotlin/de/jxdev/espdmx/server/ui/layout/Topbar.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jvmMain/kotlin/de/jxdev/espdmx/server/ui/theme/CustomColors.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jvmMain/kotlin/de/jxdev/espdmx/server/ui/theme/CustomSpaces.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jvmMain/kotlin/de/jxdev/espdmx/server/ui/theme/CustomTheme.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jvmMain/kotlin/de/jxdev/espdmx/server/ui/theme/CustomTypography.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jvmMain/kotlin/de/jxdev/espdmx/server/ui/theme/Theme.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jvmMain/resources/logback.xml" afterDir="false" />
+    <list default="true" id="b00554fb-0c77-45d7-91fe-69ccaae1f6c5" name="Changes" comment="testing">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jvmMain/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/jvmMain/kotlin/Main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jvmMain/kotlin/de/jxdev/espdmx/server/ui/App.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/jvmMain/kotlin/de/jxdev/espdmx/server/ui/App.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jvmMain/kotlin/de/jxdev/espdmx/server/server/ServerThread.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/jvmMain/kotlin/de/jxdev/espdmx/server/server/ServerThread.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -212,8 +200,17 @@
       <workItem from="1687620900409" duration="4838000" />
       <workItem from="1688047564591" duration="1654000" />
       <workItem from="1688122907548" duration="383000" />
-      <workItem from="1689790322180" duration="1435000" />
+      <workItem from="1689790322180" duration="2026000" />
     </task>
+    <task id="LOCAL-00001" summary="testing">
+      <option name="closed" value="true" />
+      <created>1689791957009</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1689791957009</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -221,5 +218,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="testing" />
+    <option name="LAST_COMMIT_MESSAGE" value="testing" />
   </component>
 </project>
